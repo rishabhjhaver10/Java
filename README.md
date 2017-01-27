@@ -14,3 +14,7 @@ There is usage of if else statement, ternary operator as well as switch statemen
 The concepts of constructors and method, overloading and overriding can be found in the programs.
 
 Some programs use the concept of data hiding, data abstraction, inheritance, polymorphism. (OOP)
+
+Some programs also use the concepts of Arrays, ArrayList and enumeration. 
+
+Also usage of static variables and static methods is shown.
